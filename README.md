@@ -23,7 +23,7 @@ I am available on multiple platforms, try one of these below!
 
 
 <div class='container'>
-<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=PGamingHD&show_icons=true&theme=radical" />
+<img style="height: auto; width: 55%;" class="img" src="[https://github-readme-stats.vercel.app/api?username=PGamingHD&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=PGamingHD&count_private=true&show_icons=true&theme=radical)" />
 &nbsp;
 &nbsp;
 <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PGamingHD&theme=radical&langs_count=8&layout=compact" /></div>
