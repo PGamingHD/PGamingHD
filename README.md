@@ -24,7 +24,7 @@ I am available on multiple platforms, try one of these below!
 
 <div style="display: flex; flex-direction: row;">
  <img class="img" src="[https://github-readme-stats.vercel.app/api?username=PGamingHD&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=PGamingHD&count_private=true&show_icons=true&theme=radical)" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PGamingHD&theme=radical&layout=compact" />
+ <img class="img" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=PGamingHD&theme=radical&layout=compact](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=PGamingHD&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&theme=dark#gh-dark-mode-only)" />
 </div>
 
 <img height = 200 width= 400 src="https://github-readme-stats.vercel.app/api?username=PGamingHD&count_private=true&show_icons=true&theme=radical"/> <img height=400 width=400 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=PGamingHD&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&theme=dark#gh-dark-mode-only" alt="Rick Staa's Language stats" />
