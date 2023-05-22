@@ -23,8 +23,6 @@ I am available on multiple platforms, try one of these below!
 
 # 👀 Quick Statistics
 
-### GitHub Stats
-<div><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" /></div> <div><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsvetoslav88&theme=radical&langs_count=8&layout=compact&hide_border=true" /></div>
-
-### GitHub Languages
-<div><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsvetoslav88&theme=radical&langs_count=8&layout=compact&hide_border=true" /></div>
+<div align="center" dir="auto" <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=hussaino03&show_icons=true&theme=radical" />
+ <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussaino03&theme=radical&layout=compact" />
+</div>
