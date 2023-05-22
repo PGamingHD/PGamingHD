@@ -21,6 +21,7 @@ I am available on multiple platforms, try one of these below!
 * ![image](https://github.com/PGamingHD/PGamingHD/blob/main/assets/logo-discord.png) : [`@PGamingHD`](https://discord.com/users/266726434855321600)
 * ![image](https://github.com/PGamingHD/PGamingHD/blob/main/assets/logo-twitter.png) : [`@PGamingHDjr`](https://twitter.com/PGamingHDjr)
 
+# 👀 Quick Statistics
 
 ### GitHub Stats
 <div><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" /></div>
