@@ -32,11 +32,5 @@ I am available on multiple platforms, try one of these below!
   <img align="center" height="197.5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PGamingHD" />
 </a>
 
-<style>
-r { color: Red }
-o { color: Orange }
-g { color: Green }
-</style>
-
 <span style="color: #AA00FF;">text</span>
 > Statistics provided by [`Github Readme stats`](https://github.com/anuraghazra/github-readme-stats)
