@@ -27,5 +27,5 @@ I am available on multiple platforms, try one of these below!
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=PGamingHD" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" height="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PGamingHD" />
+  <img align="center" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PGamingHD" />
 </a>
