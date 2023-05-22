@@ -11,8 +11,8 @@ I'm a self taught, backend developer, that first went into coding back in **2018
 # ✍ Key Notes
 * Self taught, backend developer
 * Started coding back in **2018**
-* Over 4 years of experience with [`JavaScript`](https://www.javascript.com) and a couple of months with [`TypeScript`](https://www.typescriptlang.org).
-* Always willing to learn new things, and ofcourse work in teams.
+* Over 4 years of experience with [`JavaScript`](https://www.javascript.com) and a couple of months with [`TypeScript`](https://www.typescriptlang.org)
+* Always willing to learn new things, and ofcourse work in teams
 
 # 📫 How to reach me
 I am available on multiple platforms, try one of these below!
