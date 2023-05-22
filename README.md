@@ -1,6 +1,6 @@
 # Hey there, I'm Pontus Karlsson! 👋
 
-I'm a self taught `[TypeScript](https://www.typescriptlang.org)` and JavaScript developer from Sweden, currently studying to later in life hopefully become a System Engineer.
+I'm a self taught [`TypeScript`](https://www.typescriptlang.org) and JavaScript developer from Sweden, currently studying to later in life hopefully become a System Engineer.
 
 * ⚡Fun Fact: I actually taught myself how to program by taking on problems myself, learning from solving the issues I come along! Also some reasearching like I still do to this day, is the way to go. I also studied Game Development before I decided to go for System Engineering instead.
 * 🤔 I have also worked with other languages before, but I would say I'm mainly familiar with `[TypeScript](https://www.typescriptlang.org)`, `JavaScript`, `Kotlin`, `C#` & `Lua`.
