@@ -22,5 +22,10 @@ I am available on multiple platforms, try one of these below!
 * ![image](https://github.com/PGamingHD/PGamingHD/blob/main/assets/logo-twitter.png) : [`@PGamingHDjr`](https://twitter.com/PGamingHDjr)
 
 
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=hussaino03&show_icons=true&theme=radical" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussaino03&theme=radical&layout=compact" />
+</div>
+
 <img height = 200 width= 400 src="https://github-readme-stats.vercel.app/api?username=PGamingHD&count_private=true&show_icons=true&theme=radical"/> <img height=400 width=400 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=PGamingHD&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&theme=dark#gh-dark-mode-only" alt="Rick Staa's Language stats" />
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PGamingHD&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PGamingHD&theme=radical&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
