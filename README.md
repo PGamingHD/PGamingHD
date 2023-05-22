@@ -15,7 +15,8 @@ I'm a self taught, backend developer, that first went into coding back in **2018
 * Always willing to learn new things, and ofcourse work in teams.
 
 # 📫 How to reach me
+I am available on multiple platforms, try one of these below!
 
-https://discord.com/users/266726434855321600
+* [`@PGamingHD`](https://discord.com/users/266726434855321600)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PGamingHD&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
