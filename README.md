@@ -17,7 +17,7 @@ I'm a self taught, backend developer, that first went into coding back in **2018
 # 📫 How to reach me
 I am available on multiple platforms, try one of these below!
 
-* ![image](https://github.com/PGamingHD/PGamingHD/blob/main/assets/logo-discord.png): [`@PGamingHD`](https://discord.com/users/266726434855321600)
+* ![image](https://github.com/PGamingHD/PGamingHD/blob/main/assets/logo-discord.png) : [`@PGamingHD`](https://discord.com/users/266726434855321600)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PGamingHD&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
