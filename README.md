@@ -3,15 +3,15 @@
 I'm a self taught [`TypeScript`](https://www.typescriptlang.org) and JavaScript developer from Sweden, currently studying to later in life hopefully become a System Engineer.
 
 * ⚡Fun Fact: I actually taught myself how to program by taking on problems myself, learning from solving the issues I come along! Also some reasearching like I still do to this day, is the way to go. I also studied Game Development before I decided to go for System Engineering instead.
-* 🤔 I have also worked with other languages before, but I would say I'm mainly familiar with [`TypeScript`](https://www.typescriptlang.org), `JavaScript`, `Kotlin`, `C#` & `Lua`.
+* 🤔 I have also worked with other languages before, but I would say I'm mainly familiar with [`TypeScript`](https://www.typescriptlang.org), [`JavaScript`](https://www.javascript.com), `Kotlin`, `C#` & `Lua`.
 
 # 📚 Experience 
-I'm a self taught, backend developer, that first went into coding back in **2018** and fell in love with the language `JavaScript`. Since of **December of 2022** I switched my main language to be [`TypeScript`](https://www.typescriptlang.org) which is also the language I use daily now.
+I'm a self taught, backend developer, that first went into coding back in **2018** and fell in love with the language [`JavaScript`](https://www.javascript.com). Since of **December of 2022** I switched my main language to be [`TypeScript`](https://www.typescriptlang.org) which is also the language I use daily now.
 
 # ✍ Key Notes
 * Self taught, backend developer
 * Started coding back in **2018**
-* Over 4 years of experience with `JavaScript` and a couple of months with [`TypeScript`](https://www.typescriptlang.org).
+* Over 4 years of experience with [`JavaScript`](https://www.javascript.com) and a couple of months with [`TypeScript`](https://www.typescriptlang.org).
 * Always willing to learn new things, and ofcourse work in teams.
 
 # 📫 How to reach me
