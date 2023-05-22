@@ -22,9 +22,11 @@ I am available on multiple platforms, try one of these below!
 * ![image](https://github.com/PGamingHD/PGamingHD/blob/main/assets/logo-twitter.png) : [`@PGamingHDjr`](https://twitter.com/PGamingHDjr)
 
 
-<div style="display: flex; flex-direction: row;">
- <img class="img" src="[https://github-readme-stats.vercel.app/api?username=PGamingHD&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=PGamingHD&count_private=true&show_icons=true&theme=radical)" />
- <img class="img" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=PGamingHD&theme=radical&layout=compact](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=PGamingHD&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&theme=dark#gh-dark-mode-only)" />
+<div class='container'>
+<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=user&show_icons=true&theme=blue-green" />
+&nbsp;
+&nbsp;
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=user&theme=blue-green&langs_count=8&layout=compact" /></div>
 </div>
 
 <img height = 200 width= 400 src="https://github-readme-stats.vercel.app/api?username=PGamingHD&count_private=true&show_icons=true&theme=radical"/> <img height=400 width=400 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=PGamingHD&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&theme=dark#gh-dark-mode-only" alt="Rick Staa's Language stats" />
