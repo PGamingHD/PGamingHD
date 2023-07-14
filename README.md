@@ -6,7 +6,7 @@ I'm a self taught [`TypeScript`](https://www.typescriptlang.org) and JavaScript 
 * 🤔 I have also worked with other languages before, but I would say I'm mainly familiar with [`TypeScript`](https://www.typescriptlang.org), [`JavaScript`](https://www.javascript.com), [`Kotlin`](https://kotlinlang.org), [`C#`](https://learn.microsoft.com/en-us/dotnet/csharp/) & [`Lua`](https://www.lua.org).
 
 # 📚 Experience 
-I'm a self taught, backend developer, that first went into coding back in **2018** and fell in love with the language [`JavaScript`](https://www.javascript.com). Since of **September of 2022** I switched my main language to be [`TypeScript`](https://www.typescriptlang.org) which is also the language I use daily now.
+I'm a self taught, backend developer, that first went into coding back in **2018** and fell in love with the language [`JavaScript`](https://www.javascript.com). As of **September of 2022** I switched my main language to be [`TypeScript`](https://www.typescriptlang.org) which is also the language I use daily now.
 
 # ✍ Key Notes
 * Self taught, backend developer
